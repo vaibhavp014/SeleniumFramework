@@ -3,7 +3,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2024-06-26T19:33:37.917Z",
+        "start_timestamp": "2024-06-26T19:55:49.463Z",
         "line": 4,
         "name": "Validate general user is able to view products wihtout logging in",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7189733300,
+              "duration": 7368912000,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 90058500,
+              "duration": 94085000,
               "status": "passed"
             },
             "line": 6,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 82009100,
+              "duration": 83939800,
               "status": "passed"
             },
             "line": 7,
@@ -61,7 +61,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2024-06-26T19:33:45.363Z",
+        "start_timestamp": "2024-06-26T19:55:57.088Z",
         "line": 4,
         "name": "Validate user is able to view after Login",
         "description": "",
@@ -71,7 +71,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6036257400,
+              "duration": 6370741900,
               "status": "passed"
             },
             "line": 5,
@@ -83,7 +83,7 @@
           },
           {
             "result": {
-              "duration": 637999300,
+              "duration": 1129599500,
               "status": "passed"
             },
             "line": 6,
@@ -95,7 +95,7 @@
           },
           {
             "result": {
-              "duration": 344001400,
+              "duration": 226249500,
               "status": "passed"
             },
             "line": 7,
@@ -119,7 +119,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2024-06-26T19:33:52.397Z",
+        "start_timestamp": "2024-06-26T19:56:04.829Z",
         "line": 3,
         "name": "Validate new user is able to view after clicking on new Registration",
         "description": "",
@@ -129,7 +129,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6034337300,
+              "duration": 5882954900,
               "status": "passed"
             },
             "line": 4,
@@ -141,7 +141,7 @@
           },
           {
             "result": {
-              "duration": 485471300,
+              "duration": 470001700,
               "status": "passed"
             },
             "line": 5,
@@ -153,7 +153,7 @@
           },
           {
             "result": {
-              "duration": 43001400,
+              "duration": 39995400,
               "status": "passed"
             },
             "line": 6,
